@@ -1,7 +1,7 @@
 # yitem-plugin
 
 # 유튜브
- - [유튜브](링크)
+ - [유튜브](https://youtu.be/myhLrw7-S0I)
 
 플레이어의 위치(높이)와 관련된 기능을 가진 플러그인
 
