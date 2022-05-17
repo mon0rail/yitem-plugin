@@ -1,0 +1,7 @@
+name: myplugin
+main: com.mon0rail.fisrtplugin.Main
+version: 1.0
+api-version: 1.18
+commands:
+  yitem:
+    description: Check the player's height and gives an item
